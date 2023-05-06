@@ -5,8 +5,8 @@ A ligweight network for low-texture reconstruction
 
 ### Environment
 
-* python
-* pytorch
+* python 3.8
+* pytorch 1.12.1
 
 ## Training
 * Download the preprocessed [DTU training data](https://drive.google.com/file/d/1eDjh-_bxKKnEuz5h-HXS7EDJn59clx6V/view) and [Depths_raw](https://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/cascade-stereo/CasMVSNet/dtu_data/dtu_train_hr/Depths_raw.zip) (both from [Original MVSNet](https://github.com/YoYo000/MVSNet)), and upzip it as the $MVS_TRANING  folder.
