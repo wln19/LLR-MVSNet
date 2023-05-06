@@ -44,4 +44,5 @@ SampleSet
 In `evaluations/dtu/BaseEvalMain_web.m`, set `dataPath` as path to `SampleSet/MVS Data/`, `plyPath` as directory that
 stores the reconstructed point clouds and `resultsPath` as directory to store the evaluation results. Then run
 `evaluations/dtu/BaseEvalMain_web.m` in matlab.
+
 *For quantitative evaluation on [Tanks & Temples](https://www.tanksandtemples.org/) and [ETH3D benchmark](https://www.eth3d.net/), please submit to the website.
