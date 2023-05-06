@@ -55,4 +55,4 @@ stores the reconstructed point clouds and `resultsPath` as directory to store th
 
 | Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
 |--------|--------|---------|--------|------------|--------|---------|------------|-------|
-| 60.7   | 80.09  | 63.28   | 53.27  |  57.74	    | 60.74  |  7.63   |  54.93	    | 57.91 |
+| 60.7   | 80.09  | 63.28   | 53.27  |   57.74	  | 60.74  |  7.63   |   54.93	  | 57.91 |
