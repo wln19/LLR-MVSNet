@@ -46,10 +46,10 @@ stores the reconstructed point clouds and `resultsPath` as directory to store th
 `evaluations/dtu/BaseEvalMain_web.m` in matlab.
 * For quantitative evaluation on [Tanks & Temples](https://www.tanksandtemples.org/) and [ETH3D benchmark](https://www.eth3d.net/), please submit to the website.
 ## Results on DTU
-|                       | Acc.   | Comp.  | Overall. |
-|-----------------------|--------|--------|----------|
-| MVSNet(D=256)         | 0.396  | 0.527  | 0.462    |
-| CasMVSNet(D=48,32,8)  | 0.325  | 0.385  | 0.355    |
+|             | Acc.   | Comp.  | Overall. |
+|-------------|--------|--------|----------|
+| CasMVSNet   | 0.325  | 0.385  | 0.355    |
+| LLR-MVSNet  | 0.314  | 0.318  | 0.316    |
 
 ## Results on Tanks and Temples benchmark
 
