@@ -20,5 +20,5 @@ def catmesh(path):
     o3d.visualization.draw_geomatrics(trimesh)
     print("success")
 if __name__=="__main__":
-    path='/media/yons/10T1/wanglina/casmvsnetfse/CasMVSNet/outputs/Family.ply'
+    path='home/LLRMVSNet-main/LLRMVSNet/outputs/Family.ply'
     catmesh(path)
