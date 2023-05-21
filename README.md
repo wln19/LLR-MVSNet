@@ -31,7 +31,7 @@ root_directory
       └── pair.txt  
 ```
 * In scripts/test.sh, set DTU_TESTPATH as $DTU_TESTPATH.
-* The DTU_CKPT_FILE is automatically set as your pretrained checkpoint file, you also can download my [pretrained model]().
+* The DTU_CKPT_FILE is automatically set as your pretrained checkpoint file, you also can download my [pretrained model](https://github.com/wln19/LLR-MVSNet/files/11524200/checkpoints.zip).
 * Test on GPU by running scripts/test.sh. The code includes depth map estimation and depth fusion. The outputs are the point clouds in ply format.
 * For quantitative evaluation on DTU dataset, download [SampleSet](http://roboimagedata.compute.dtu.dk/?page_id=36) and
   [Points](http://roboimagedata.compute.dtu.dk/?page_id=36). Unzip them and place `Points` folder in `SampleSet/MVS Data/`.
