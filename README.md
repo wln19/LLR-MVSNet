@@ -55,7 +55,7 @@ stores the reconstructed point clouds and `resultsPath` as directory to store th
 
 | Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
 |--------|--------|---------|--------|------------|--------|---------|------------|-------|
-| 60.7   | 80.09  | 63.28   | 53.27  | 57.74	    | 60.74  |  57.63   | 54.93	    | 57.91 |
+| 60.7   | 80.09  | 63.28   | 53.27  |   57.74	  | 60.74  |  57.63  |   54.93	  | 57.91 |
 # Acknowledgements
 Our work is partially baed on these opening source work: [MVSNet](https://github.com/YoYo000/MVSNet), [MVSNet-pytorch](https://github.com/xy-guo/MVSNet_pytorch), [cascade-stereo](https://github.com/YoYo000/MVSNet), [PatchmatchNet](https://github.com/FangjinhuaWang/PatchmatchNet)，[MVSTER](https://github.com/JeffWang987/MVSTER).
 
