@@ -54,8 +54,7 @@ class DepthNet(nn.Module):
         # # aggregate multiple feature volumes by variance
         # volume_variance = volume_sq_sum.div_(num_views).sub_(volume_sum.div_(num_views).pow_(2))
         #print("sost",self.cost_aggregation)
-        if self.cost_aggregation == 0:
-            print(22222)
+        if self.cost_aggregation == 0
             ref_volume = ref_feature.unsqueeze(2).repeat(1, 1, num_depth, 1, 1)
             volume_sum = ref_volume
             volume_sq_sum = ref_volume ** 2
